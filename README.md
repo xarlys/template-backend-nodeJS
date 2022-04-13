@@ -22,22 +22,24 @@ Passo-a-passo para execução do sistema.
 * Abrir a solução Visual Studio Code
 
 * Abrir o terminal/console do gerenciador de pacotes
-executar o comando: yarn dev:sever [typscript]
+executar o comando:
+yarn ou npm -i
+yarn dev:sever [typescript] ou npm run dev:server [typescript]
 ```
 
 ## 🛠️ Construído com
 
 * HTML5
 * CSS3
-* JavaScript | Typscript
+* JavaScript | Typescript
 * EsLint
 * Prettier
 * Babel
 * Jest (Teste)
 * TypeOrm (Orm para banco de dados)
 * Bandlebars (Para gerar arquivos de e-mail em HTML)
-* Dayjs (bibli para tratar dia e horas)
-* Bycript (criptografia
+* Dayjs (tratar dias e horas)
+* Bycript (criptografia)
 * Dontenv (usar arquivo .env)
 * Jsonwebtoken (usar web token)
 * Nodemailer (envio de email)
@@ -45,7 +47,7 @@ executar o comando: yarn dev:sever [typscript]
 * Redis (banco de dados nao relacional)
 * Uuid (gerador de id)
 * Multer (upload de arquivos)
-* Tsyringe (injeçao de pendêcia)
+* Tsyringe (injeçao dependêcia)
 
 ## ✒️ Autor
 
